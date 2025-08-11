@@ -1,0 +1,6 @@
+{
+    "airspace_n": null,
+    "airspace_s": null,
+    "airspace_w": null,
+    "airspace_e": null
+}
